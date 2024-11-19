@@ -1,6 +1,6 @@
 # Healthcare Security Blueprint
 
-![Banner](https://your-image-url.com/banner.png)
+![Banner](https://i.ibb.co/yQjnVtc/Designer-8.jpg)
 
 **Empowering Healthcare with Secure Solutions and Regulatory Excellence**
 
