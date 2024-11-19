@@ -2,7 +2,7 @@
 
 ![Banner](https://i.ibb.co/yQjnVtc/Designer-8.jpg)
 
-**Empowering Healthcare with Secure Solutions and Regulatory Excellence**
+**Bridging Cybersecurity and Patient Care**
 
 ---
 
