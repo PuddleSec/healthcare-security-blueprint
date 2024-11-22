@@ -45,10 +45,17 @@ The **Product Security Blueprint** is an open-source initiative offering actiona
 
 ---
 
-### Visual Example: IoT Threat Model  
+### Visual Examples  
+
+#### IoT Threat Model  
 ![IoT Security Threat Model](path-to-image/IoT_Security_Threat_Model.png)  
 
 This diagram highlights key components and potential threats in a typical IoT ecosystem, showcasing how Zero Trust principles can mitigate risks.
+
+#### Regulatory Compliance Checklist  
+![Regulatory Compliance Checklist](path-to-image/Refined_Compliance_Checklist.png)  
+
+This checklist ensures alignment with regulatory requirements, including GDPR, HIPAA, and ISO 27001.
 
 ---
 
