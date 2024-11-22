@@ -8,7 +8,7 @@
 
 ### 🌟 Overview  
 
-This folder provides resources and templates for conducting effective **threat modeling**, enabling developers to identify and mitigate potential security risks during product development.  
+This folder provides resources and templates for effective **threat modeling**, enabling developers to identify and mitigate potential security risks during product development.  
 
 ---
 
